@@ -1,0 +1,17 @@
+{
+  "name": "countdown-app",
+  "version": "1.0.0",
+  "description": "Countdown Timer and Notification App",
+  "main": "countdown.js",
+  "scripts": {
+    "start": "node countdown.js",
+    "dev": "nodemon countdown.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
+
